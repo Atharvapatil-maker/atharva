@@ -1,4 +1,5 @@
-# atharva
+# Great Learning Certificate
+
 <p align="center">
         <a href="https://olympus.mygreatlearning.com/courses/12383/certificate">
             <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(7).png" width=170 height=100/>
