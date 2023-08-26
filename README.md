@@ -19,4 +19,7 @@
         <a href="https://www.hackerrank.com/certificates/b8b52a484b3e">
             <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(12).png" width=170 height=100/>
         </a>
+        <a href="https://www.hackerrank.com/certificates/acba2bcb4b92">
+            <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(12).png" width=170 height=100/>
+        </a>
 
