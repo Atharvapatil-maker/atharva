@@ -20,6 +20,6 @@
             <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(12).png" width=170 height=100/>
         </a>
         <a href="https://www.hackerrank.com/certificates/acba2bcb4b92">
-            <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(12).png" width=170 height=100/>
+            <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(15).png" width=170 height=100/>
         </a>
 
