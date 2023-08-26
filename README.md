@@ -1,4 +1,4 @@
-# Great Learning Certificate
+<h1> Great Learning Certificate</h1>
 
 <p align="center">
         <a href="https://olympus.mygreatlearning.com/courses/12383/certificate">
@@ -14,7 +14,7 @@
             <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(10).png" width=169 height=100 />
         </a>
     </p>
-# HackerRank Certificate
+<h1> HackerRank Certificate </h1>
 <p align="center">
         <a href="https://www.hackerrank.com/certificates/b8b52a484b3e">
             <img src="https://github.com/Atharvapatil-maker/atharva/blob/main/Screenshot%20(12).png" width=170 height=100/>
